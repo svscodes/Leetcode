@@ -1,4 +1,4 @@
-# Leetcode
+# Leetcode Solutions
 
 Welcome to my personal repository of LeetCode problem solutions!  
 This repo is a collection of well-documented solutions in various programming languages, primarily focused on algorithmic thinking, data structures, and coding interview preparation.
