@@ -34,4 +34,4 @@ The problems are grouped by topic and difficulty:
 
 1. Clone the repo:  
    ```bash
-   git clone https://github.com/svs/leetcode-solutions.git
+   git clone https://github.com/svscodes/Leetcode.git
